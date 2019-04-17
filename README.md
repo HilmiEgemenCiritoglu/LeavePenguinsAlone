@@ -12,7 +12,7 @@ Bir websitesine baglanmaya calistiginizda isletim sisteminiz once bu host dosyas
 Eger biz host dosyasini degistirir ve bir domaini 0.0.0.0 olarak kaydedersek; biz bu web sitesine baglanmaya calistigimizda entry mevcut oldugu icin dns sorgusu calismaz ve 0.0.0.0 baglanmaya calisiriz. Fakat bu adres gecersiz oldugundan herhangi bir websitesi acilmaz. Daha fazla bilgi icin: https://github.com/StevenBlack/hosts
 
 ### Nasil kullanilir?
-Bu projede bulununan Domains.txt dosyasindaki alan adlarini(domainleri) host dosyasina eklerseniz, bu sitelere bilgisayarinizdan erisiminizi engelleyecektir. Host dosyasinin nerede oldugunu bilmiyorsaniz, burayi ziyaret edebilirsiniz:
+Bu projede bulununan Domains.txt dosyasindaki ip ve alan adi ciftlerini host dosyasina eklerseniz, bu sitelere bilgisayarinizdan erisiminizi engelleyecektir. Host dosyasinin nerede oldugunu bilmiyorsaniz, burayi ziyaret edebilirsiniz:
 [Tutorial](https://www.howtogeek.com/howto/27350/beginner-geek-how-to-edit-your-hosts-file/)
 
 =======
