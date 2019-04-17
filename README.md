@@ -6,8 +6,9 @@ https://en.wikipedia.org/wiki/Media_of_Turkey
 
 ### Arka Plan?
 
-Her isletim sistemi host dosyasi denilen bir dosya tutar. Bu dosya IP ve domain isimlerinden olusan bir duz metin dosyasidir. Buradaki alan adlarindan birine baglanmaya calistiginizda eger o entry mevcutsa ona baglanir yoksa dns protokulunu kullanarak web sitesinin ipsini bulur ve sonra o websitesine baglanirsiniz. Eger biz host dosyasini degistirir ve bir domaini 0.0.0.0 olarak kaydedersek biz buweb sitesine baglanmaya calistigimizda dns sorgusu calismaz ve gecersiz olan bu adrese baglanmaya calistimigizdan web sitesi acilmaz.
-Daha fazla bilgi icin: https://github.com/StevenBlack/hosts
+Her isletim sistemi host dosyasi denilen bir dosya tutar. Bu dosya IP ve domain isimlerinden olusan bir duz metin dosyasidir.
+Bir websitesine baglanmaya calistiginizda isletim sisteminiz once bu host dosyasina bakar. Eger o websitesi host dosyasinda mevcutsa oradaki IP ye baglanir. Eger yoksa dns protokulunu kullanarak web sitesinin IPsini bulur ve websitesine baglanmak icin o adrese http sorgusu gonderirsiniz. 
+Eger biz host dosyasini degistirir ve bir domaini 0.0.0.0 olarak kaydedersek; biz bu web sitesine baglanmaya calistigimizda entry mevcut oldugu icin dns sorgusu calismaz ve 0.0.0.0 baglanmaya calisiriz. Fakat bu adres gecersiz oldugundan herhangi bir websitesi acilmaz. Daha fazla bilgi icin: https://github.com/StevenBlack/hosts
 
 ### Nasil kullanilir?
 Bu projede bulununan Domains.txt dosyasindaki alan adlarini(domainleri) host dosyasina eklerseniz, bu sitelere bilgisayarinizdan erisiminizi engelleyecektir. Host dosyasinin nerede oldugunu bilmiyorsaniz, burayi ziyaret edebilirsiniz:
