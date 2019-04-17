@@ -1,6 +1,3 @@
-
-
-<<<<<<< HEAD
 # Leave Penguins Alone
 ![Alt text](/img_penguins.jpg?raw=true "Title")
 <br><br>
@@ -17,4 +14,3 @@ Domains.txt dosyasindaki alan adlarini(domainleri) host dosyasina eklerseniz, bu
 
 =======
 https://en.wikipedia.org/wiki/Media_of_Turkey
->>>>>>> 6d5ee6d9fda0f2b43b403ccd8c1d32d5796689f9
