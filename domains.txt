@@ -1,0 +1,17 @@
+0.0.0.0 hurriyet.com.tr
+0.0.0.0 hurriyet.com
+0.0.0.0 milliyet.com.tr
+0.0.0.0 milliyet.com
+0.0.0.0 ntv.com.tr
+0.0.0.0 sabah.com.tr
+0.0.0.0 ahaber.com.tr
+0.0.0.0 ahaber.com
+0.0.0.0 t24.com.tr
+0.0.0.0 aksam.com.tr
+0.0.0.0 gunes.com
+0.0.0.0 yeniakit.com.tr
+0.0.0.0 cnnturk.com
+0.0.0.0 haberturk.com
+0.0.0.0 turkiyegazetesi.com.tr
+0.0.0.0 turkiyegazetesi.com
+0.0.0.0 star.com.tr
